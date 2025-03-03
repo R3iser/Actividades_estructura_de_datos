@@ -1,2 +1,0 @@
-# Actividades_estructura_de_datos
-Actividades
