@@ -1,0 +1,92 @@
+{
+    "Usuarios": {
+        "Trabajadores": [
+            {
+                "usuario": "01",
+                "nombre": "Cristian David",
+                "apellido": "Acevedo Hernandez",
+                "activo": true,
+                "area": "ingenieria(sistemas)",
+                "edad": "21",
+                "correo": "cdacevedoh@ejemplo.edu.co",
+                "cargo": "estudiante",
+                "enfermedades fisicas": false,
+                "enfermedades mentales": false
+            },
+            {
+                "usuario": "02",
+                "nombre": "",
+                "apellido": "",
+                "activo": false,
+                "area": "",
+                "edad": "",
+                "correo": "",
+                "cargo": "",
+                "enfermedades fisicas": false,
+                "enfermedades mentales": false
+            },
+            {
+                "usuario": "03",
+                "nombre": "",
+                "apellido": "",
+                "activo": false,
+                "area": "",
+                "edad": "",
+                "correo": "",
+                "cargo": "",
+                "enfermedades fisicas": false,
+                "enfermedades mentales": false
+            },
+            {
+                "usuario": "04",
+                "nombre": "",
+                "apellido": "",
+                "activo": false,
+                "area": "",
+                "edad": "",
+                "correo": "",
+                "cargo": "",
+                "enfermedades fisicas": false,
+                "enfermedades mentales": false
+            }
+        ],
+        "Clientes": [
+            {
+                "usuario": "101",
+                "nombre": "Laura Daniela",
+                "apellido": "Albarrasin",
+                "activo": true,
+                "vip": true,
+                "edad": "20",
+                "correo": "ldalbarrasin@gmail.com",
+                "tipo de pago": "targeta",
+                "Tipo de targeta": "credito",
+                "enfermedades mentales": false
+            },
+            {
+                "usuario": "102",
+                "nombre": "",
+                "apellido": "",
+                "activo": false,
+                "vip": false,
+                "edad": "",
+                "correo": "@gmail.com",
+                "tipo de pago": "",
+                "Tipo de targeta": "",
+                "enfermedades mentales": false
+            },
+            {
+                "usuario": "102",
+                "nombre": "",
+                "apellido": "",
+                "activo": false,
+                "vip": false,
+                "edad": "",
+                "correo": "@gmail.com",
+                "tipo de pago": "",
+                "Tipo de targeta": "",
+                "enfermedades mentales": false
+            }
+        ]
+    }
+}
