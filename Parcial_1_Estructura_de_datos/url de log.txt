@@ -1,0 +1,3 @@
+No me deja subir nisiquiera el achivo del log pero aqui dejo link del log utilizado 
+
+https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs?resource=download
