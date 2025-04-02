@@ -1,8 +1,8 @@
 import json, re
 
 def extractFromRegularExpression(regex, achivo):
-  if data:
-    return re.findall(regex, data)
+  if archivo:
+    return re.findall(regex, archivo)
   return None
 
 archivo= open("D:\\Programacion\\Python\\Estructura_de baces_de_datos\\Taller_uso_de_regex_y_python\\access.log", "r") #en este caso al ser aun ubicacion en el disco se pone en donde tengas el archivo en mi caso es esta 
