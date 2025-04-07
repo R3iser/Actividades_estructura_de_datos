@@ -1,6 +1,6 @@
 import json, re
 
-def extractFromRegularExpression(regex, achivo):
+def extractFromRegularExpression(regex, archivo):
   if archivo:
     return re.findall(regex, archivo)
   return None
