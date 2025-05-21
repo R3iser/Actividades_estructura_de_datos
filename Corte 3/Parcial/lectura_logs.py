@@ -5,8 +5,6 @@ from collections import defaultdict
 logs_http="D:\\Programacion\\Python\\Estructura_de baces_de_datos\\Corte 3\\Parcial\\Logs"
 ruta_base_datos="D:\\Programacion\\Python\\Estructura_de baces_de_datos\\Corte 3\\Parcial\\GeoLite2_base_datos.mmdb"
 
-
-# Lista donde se almacenará la información extraída
 logs_extraidos = []
 logs_pais = []
 
